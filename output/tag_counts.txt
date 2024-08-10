@@ -1,0 +1,8 @@
+Tag Counts:
+Tag             Count
+untagged        142619
+sv_p4           1458 
+sv_p5           1409 
+sv_p3           1416 
+sv_p2           1499 
+sv_p1           1599 
